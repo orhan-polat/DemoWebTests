@@ -1,5 +1,4 @@
 Dieser Testfall führt eine Suche nach "akquinet" über www.google.de aus, anschließend wird überprüft ob bestimmte Ergebnisse angezeigt bzw. nicht angezeigt werden.
-efre2r2
 !include <DemoWebTests.TestSzenarien.GoogleStartSzenario
 !|script|
 |Google Start Szenario|
