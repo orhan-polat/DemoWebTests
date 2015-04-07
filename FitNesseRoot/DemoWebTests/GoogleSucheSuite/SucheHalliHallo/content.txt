@@ -1,1 +1,1 @@
-!contents
+Dies ist ein Kommentar
